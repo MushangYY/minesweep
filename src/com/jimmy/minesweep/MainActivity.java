@@ -83,6 +83,7 @@ public class MainActivity extends Activity {
 		initGame();
 	}
 
+	//初始化游戏界面
 	private void initGameView() {
 		btn_start.setText("开始");
 		tv_time.setText("时间：0秒");
