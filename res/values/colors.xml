@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <color name="listview__unclick">#ffffff</color>
+    <color name="listview__click">#e6e6e6</color>
+    <color name="background">#ffecedee</color>
+    <color name="black">#000000</color>
+    <color name="bottom">#046195</color>
+    <color name="light">#d9e0ec</color>
+    <color name="light_1">#eaeef5</color>
+    <color name="gray">#969696</color>
+
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="half_transparent">#77000000</drawable>
+    <drawable name="alpha">#55000000</drawable>
+    <drawable name="main_drawable">#ff3054</drawable>
+    <drawable name="white_drawable">#fafafa</drawable>
+    <drawable name="menu_click">#FFAD2D</drawable>
+
+    <color name="top_text_black">#5e5e5e</color>
+    <color name="top_text_checked">#ff3054</color>
+    <color name="main_color">#ff3054</color>
+    <color name="main_color_deep">#DB1146</color>
+    <color name="main_bg">#ecede3</color>
+    <color name="main_bg_v3">#f1f1f1</color>
+
+    <drawable name="dark_gray">#D3D3D3</drawable>
+    <drawable name="d_white">#fafafa</drawable>
+
+    <color name="main_black_text">#3f3f3f</color>
+    <color name="main_gray_text">#d8d8d8</color>
+    <color name="main_home_gray_text">#8d8d8d</color>
+    <color name="main_red_text">#fa0000</color>
+    <color name="dialog_text_gray">#808080</color>
+    <color name="dialog_divider">#f0f0f0</color>
+    <color name="dialog_top_background">#d40000</color>
+    <color name="line_color">#d4d4d4</color>
+    <color name="main_text_color">#929292</color>
+    <color name="bt_sign_color">#D83851</color>
+    <color name="bt_download_color">#6BB946</color>
+    <color name="bt_open_color">#34AFE2</color>
+    <color name="bt_downloading_color">#FCD208</color>
+    <color name="green_bt_n_color">#38B84C</color>
+    <color name="green_bt_p_color">#0AA3A4</color>
+    <color name="white_color">#ffffff</color>
+    <color name="person_color">#ffffff</color>
+
+</resources>
